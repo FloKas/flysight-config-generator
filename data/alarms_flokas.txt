@@ -1,0 +1,56 @@
+
+; Alarm settings
+
+; WARNING: GPS measurements depend on very weak signals
+;          received from orbiting satellites. As such, they
+;          are prone to interference, and should NEVER be
+;          relied upon for life saving purposes.
+
+;          UNDER NO CIRCUMSTANCES SHOULD THESE ALARMS BE
+;          USED TO INDICATE DEPLOYMENT OR BREAKOFF ALTITUDE.
+
+; NOTE:    Alarm elevations are given in meters above ground
+;          elevation, which is specified in DZ_Elev.
+
+Window:        1999 ; Alarm window (m)
+DZ_Elev:       212 ; Ground elevation (m above sea level)
+
+
+Alarm_Elev:    3400 ; Alarm elevation (m above ground level)
+Alarm_Type:    1 ; Alarm type
+Alarm_File:    0 ; File to be played
+
+
+Alarm_Elev:    3300 ; Alarm elevation (m above ground level)
+Alarm_Type:    4 ; Alarm type
+Alarm_File:    3 ; File to be played
+
+
+Alarm_Elev:    3200 ; Alarm elevation (m above ground level)
+Alarm_Type:    4 ; Alarm type
+Alarm_File:    2 ; File to be played
+
+
+Alarm_Elev:    3100 ; Alarm elevation (m above ground level)
+Alarm_Type:    4 ; Alarm type
+Alarm_File:    1 ; File to be played
+
+
+Alarm_Elev:    3050 ; Alarm elevation (m above ground level)
+Alarm_Type:    1 ; Alarm type
+Alarm_File:    0 ; File to be played
+
+
+Alarm_Elev:    3000 ; Alarm elevation (m above ground level)
+Alarm_Type:    4 ; Alarm type
+Alarm_File:    0 ; File to be played
+
+
+Alarm_Elev:    2050 ; Alarm elevation (m above ground level)
+Alarm_Type:    2 ; Alarm type
+Alarm_File:    0 ; File to be played
+
+
+Alarm_Elev:    1980 ; Alarm elevation (m above ground level)
+Alarm_Type:    4 ; Alarm type
+Alarm_File:    0 ; File to be played
