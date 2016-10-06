@@ -1,3 +1,38 @@
-DZ_Elev:          ; Ground elevation (m above sea level)
+DZ_Elev:        0 ; Ground elevation (m above sea level)
 
 DZ_Elev:       72 ; Marl (m above sea level)
+
+DZ_Elev:      135 ; Netheravon (m above sea level)
+
+DZ_Elev:       27 ; Z-Hills (m above sea level)
+
+DZ_Elev:      160 ; SD Desert (m above sea level)
+
+DZ_Elev:      127 ; Siofok (m above sea level)
+
+
+DZ_Elev:        ; Kapos (m above sea level)
+
+DZ_Elev:        ; Arezzo (m above sea level)
+
+DZ_Elev:        ; Molinella (m above sea level)
+
+DZ_Elev:        ; Texel (m above sea level)
+
+DZ_Elev:        ; Teuge (m above sea level)
+
+DZ_Elev:        ; Schaffen (m above sea level)
+
+DZ_Elev:        ; Chicago (m above sea level)
+
+DZ_Elev:        ; Soest (m above sea level)
+
+DZ_Elev:        ; Stadtlohn (m above sea level)
+
+DZ_Elev:        ; Klatovy (m above sea level)
+
+DZ_Elev:        ; Voss (m above sea level)
+
+DZ_Elev:        ;  (m above sea level)
+
+DZ_Elev:        ;  (m above sea level)
