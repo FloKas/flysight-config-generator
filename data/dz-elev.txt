@@ -1,21 +1,38 @@
 DZ_Elev:        0 ; Ground elevation (m above sea level)
 
-DZ_Elev:       72 ; Marl (m above sea level)
-DZ_Elev:      135 ; Netheravon (m above sea level)
-DZ_Elev:       27 ; Z-Hills (m above sea level)
-DZ_Elev:      160 ; SD Desert (m above sea level)
-DZ_Elev:      127 ; Siofok (m above sea level)
+DZ_Elev:       72 ; Marl, GER
+DZ_Elev:      212 ; Eschbach, GER
+DZ_Elev:      120 ; Soest, GER
+DZ_Elev:      739 ; Altenstadt, GER
+DZ_Elev:      512 ; Illertissen, GER
+DZ_Elev:        1 ; Texel, NL
+DZ_Elev:        5 ; Teuge, NL
+DZ_Elev:      135 ; Netheravon, UK
+DZ_Elev:      127 ; Siofok, HUN
+DZ_Elev:      156 ; Kapos, HUN
+DZ_Elev:       61 ; Irish Parachute Club, IRL
+DZ_Elev:       91 ; Voss, NOR
+DZ_Elev:       12 ; Molinella, ITA
+DZ_Elev:       16 ; Fano, ITA
+DZ_Elev:       45 ; Skydive Spain, ESP
+DZ_Elev:        2 ; Empuriabrava, ESP
+DZ_Elev:      127 ; Borki, RUS
+DZ_Elev:      230 ; Puschino, RUS
+DZ_Elev:       27 ; Z-Hills, USA
+DZ_Elev:      238 ; Chicago, USA
+DZ_Elev:       18 ; Lodi, USA
+DZ_Elev:       24 ; Deland, USA
+DZ_Elev:      460 ; Arizona, USA
+DZ_Elev:      431 ; Perris, USA
+DZ_Elev:        8 ; Oceanside, USA
+DZ_Elev:     1317 ; Utah, USA
+DZ_Elev:       83 ; Kapowsin, USA
+DZ_Elev:        6 ; Vancouver, CAN
+DZ_Elev:     1250 ; Pretoria, SA
+DZ_Elev:      160 ; SD Desert, AE
 
-DZ_Elev:        ; Kapos (m above sea level)
-DZ_Elev:        ; Arezzo (m above sea level)
-DZ_Elev:        ; Molinella (m above sea level)
-DZ_Elev:        ; Texel (m above sea level)
-DZ_Elev:        ; Teuge (m above sea level)
-DZ_Elev:        ; Schaffen (m above sea level)
-DZ_Elev:        ; Chicago (m above sea level)
-DZ_Elev:        ; Soest (m above sea level)
-DZ_Elev:        ; Stadtlohn (m above sea level)
-DZ_Elev:        ; Klatovy (m above sea level)
-DZ_Elev:        ; Voss (m above sea level)
-DZ_Elev:        ;  (m above sea level)
-DZ_Elev:        ;  (m above sea level)
+DZ_Elev:        ; Arezzo, ITA
+DZ_Elev:        ; Schaffen, BE
+DZ_Elev:        ; Stadtlohn, GER
+DZ_Elev:        ; Klatovy, CZE
+DZ_Elev:        ; 
