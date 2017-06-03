@@ -5,7 +5,7 @@ DZ_Elev:      212 ; Eschbach, GER
 DZ_Elev:      120 ; Soest, GER
 DZ_Elev:      739 ; Altenstadt, GER
 DZ_Elev:      512 ; Illertissen, GER
-DZ_Elev:       32 ; Neusteadt-Glewe, GER
+DZ_Elev:       32 ; Skydive MV, Neustadt-Glewe, GER
 DZ_Elev:        1 ; Texel, NL
 DZ_Elev:        5 ; Teuge, NL
 DZ_Elev:      135 ; Netheravon, UK
