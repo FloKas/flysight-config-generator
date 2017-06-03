@@ -13,7 +13,7 @@
 ;          elevation, which is specified in DZ_Elev.
 
 Window:        1999 ; Alarm window (m)
-DZ_Elev:       72 ; Ground elevation MARL (m above sea level)
+DZ_Elev:            ; Ground elevation (m above sea level)
 
 
 Alarm_Elev:    3400 ; Alarm elevation (m above ground level)
