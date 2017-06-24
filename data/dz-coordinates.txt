@@ -9,11 +9,16 @@
 
 
 ; Flyblind settings Marl
-      Lat: 516481570 ; Latitude
-      Lon: 71543360  ; Longitude
+;      Lat: 516481570 ; Latitude
+;      Lon: 71543360  ; Longitude
+;  Bearing: 0         ; Bearing (Degrees) (Mode 7)
+
+
+
+; Flyblind settings Texel
+      Lat: 531182780 ; Latitude
+      Lon: 48290190  ; Longitude
   Bearing: 0         ; Bearing (Degrees) (Mode 7)
-
-
 
 
 
