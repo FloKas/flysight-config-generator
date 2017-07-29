@@ -26,11 +26,11 @@ Mode:      2     ; Measurement mode
                  ;   3 = Inverse glide ratio
                  ;   4 = Total speed
                  ;   11 = Dive angle
-Min:       3000     ; Lowest pitch value - standard 0
+Min:       0     ; Lowest pitch value - standard 0
                  ;   cm/s        in Mode 0, 1, or 4
                  ;   ratio * 100 in Mode 2 or 3
                  ;   degrees     in Mode 11
-Max:       3000   ; Highest pitch value
+Max:       0     ; Highest pitch value
                  ;   cm/s        in Mode 0, 1, or 4
                  ;   ratio * 100 in Mode 2 or 3
                  ;   degrees     in Mode 11
@@ -52,12 +52,12 @@ Mode_2:    9     ; Determines tone rate
                  ;   8 = Magnitude of Value 1
                  ;   9 = Change in Value 1
                  ;   11 = Dive angle
-Min_Val_2: 15000   ; Lowest rate value - standard 300
+Min_Val_2:  0    ; Lowest rate value - standard 300
                  ;   cm/s          when Mode 2 = 0, 1, or 4
                  ;   ratio * 100   when Mode 2 = 2 or 3
                  ;   percent * 100 when Mode 2 = 9
                  ;   degrees       when Mode 2 = 11
-Max_Val_2: 15000  ; Highest rate value - standard 1500
+Max_Val_2:  0    ; Highest rate value - standard 1500
                  ;   cm/s          when Mode 2 = 0, 1, or 4
                  ;   ratio * 100   when Mode 2 = 2 or 3
                  ;   percent * 100 when Mode 2 = 9
