@@ -1,14 +1,11 @@
-
 ; Alarm settings
 
 ; WARNING: GPS measurements depend on very weak signals
 ;          received from orbiting satellites. As such, they
 ;          are prone to interference, and should NEVER be
 ;          relied upon for life saving purposes.
-
 ;          UNDER NO CIRCUMSTANCES SHOULD THESE ALARMS BE
 ;          USED TO INDICATE DEPLOYMENT OR BREAKOFF ALTITUDE.
-
 ; NOTE:    Alarm elevations are given in meters above ground
 ;          elevation, which is specified in DZ_Elev.
 
@@ -18,8 +15,15 @@ Win_Below:  1999 ; Window below each alarm (m)
 DZ_Elev:       0 ; Ground elevation (m above sea level)
 
 
+
+
 Alarm_Elev: 3400 ; Alarm elevation (m above ground level)
-Alarm_Type:    1 ; Alarm type
+Alarm_Type:    2 ; Alarm type
+                 ;   0 = No alarm
+                 ;   1 = Beep
+                 ;   2 = Chirp up
+                 ;   3 = Chirp down
+                 ;   4 = Play file
 Alarm_File:    0 ; File to be played
 
 
@@ -39,7 +43,7 @@ Alarm_File:    1 ; File to be played
 
 
 Alarm_Elev: 3050 ; Alarm elevation (m above ground level)
-Alarm_Type:    1 ; Alarm type
+Alarm_Type:    12; Alarm type
 Alarm_File:    0 ; File to be played
 
 
@@ -55,4 +59,8 @@ Alarm_File:    0 ; File to be played
 
 Alarm_Elev: 1980 ; Alarm elevation (m above ground level)
 Alarm_Type:    4 ; Alarm type
+Alarm_File:    0 ; File to be played
+
+Alarm_Elev:  300 ; Alarm elevation (m above ground level)
+Alarm_Type:    3 ; Alarm type
 Alarm_File:    0 ; File to be played
