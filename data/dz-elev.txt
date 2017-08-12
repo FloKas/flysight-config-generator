@@ -1,3 +1,5 @@
+; more DZ_Elevs: https://github.com/skyderby/skyderby/tree/dev/db/seeds/places
+
 DZ_Elev:        0 ; Ground elevation (m above sea level)
 
 DZ_Elev:       72 ; Marl, GER
@@ -11,6 +13,7 @@ DZ_Elev:        5 ; Teuge, NL
 DZ_Elev:      135 ; Netheravon, UK
 DZ_Elev:      127 ; Siofok, HUN
 DZ_Elev:      156 ; Kapos, HUN
+DZ_Elev:      105 ; Nyiregyhaza, HUN
 DZ_Elev:       61 ; Irish Parachute Club, IRL
 DZ_Elev:       91 ; Voss, NOR
 DZ_Elev:       12 ; Molinella, ITA
@@ -32,10 +35,11 @@ DZ_Elev:        6 ; Vancouver, CAN
 DZ_Elev:     1250 ; Pretoria, SA
 DZ_Elev:      160 ; SD Desert, AE
 DZ_Elev:      416 ; Skydive Fyrosity, Overton, Las Vegas, USA
-
+DZ_Elev:      157 ; Stadtlohn, GER
+DZ_Elev:      214 , Prostejov, CZE
+DZ_Elev:      470 ; Spa, BEL
 
 DZ_Elev:        ; Arezzo, ITA
-DZ_Elev:        ; Schaffen, BE
-DZ_Elev:        ; Stadtlohn, GER
+DZ_Elev:        ; Schaffen, BEL
 DZ_Elev:        ; Klatovy, CZE
 DZ_Elev:        ; Ravenna, ITA
