@@ -8,6 +8,7 @@ DZ_Elev:      120 ; Soest, GER
 DZ_Elev:      739 ; Altenstadt, GER
 DZ_Elev:      512 ; Illertissen, GER
 DZ_Elev:       32 ; Skydive MV, Neustadt-Glewe, GER
+
 DZ_Elev:        1 ; Texel, NL
 DZ_Elev:        5 ; Teuge, NL
 DZ_Elev:      135 ; Netheravon, UK
@@ -31,6 +32,7 @@ DZ_Elev:      431 ; Perris, USA
 DZ_Elev:        8 ; Oceanside, USA
 DZ_Elev:     1317 ; Utah, USA
 DZ_Elev:       83 ; Kapowsin, USA
+DZ_Elev:      382 ; Elsinore, USA
 DZ_Elev:        6 ; Vancouver, CAN
 DZ_Elev:     1250 ; Pretoria, SA
 DZ_Elev:      160 ; SD Desert, AE
