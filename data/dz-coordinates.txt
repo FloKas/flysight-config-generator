@@ -20,8 +20,8 @@
 
 
 ; Flyblind settings Stadtlohn
-      Lat:  519971580
-      Lon:  68452430
+;      Lat:  519971580
+;      Lon:  68452430
 
 
 ; Flyblind settings Texel
@@ -40,4 +40,4 @@
 ;      Lon:   ; Longitude
 
 
-; more coordinates and dz-heights can be found here: https://github.com/skyderby/skyderby/tree/dev/db/seeds/places
+; more coordinates and dz-heights can be found for example here: https://github.com/skyderby/skyderby/tree/dev/db/seeds/places
