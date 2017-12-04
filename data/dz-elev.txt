@@ -8,9 +8,12 @@ DZ_Elev:      120 ; Soest, GER
 DZ_Elev:      739 ; Altenstadt, GER
 DZ_Elev:      512 ; Illertissen, GER
 DZ_Elev:       32 ; Skydive MV, Neustadt-Glewe, GER
+DZ_Elev:      157 ; Stadtlohn, GER
 
 DZ_Elev:        1 ; Texel, NL
 DZ_Elev:        5 ; Teuge, NL
+DZ_Elev:      214 , Prostejov, CZE
+DZ_Elev:      470 ; Spa, BEL
 DZ_Elev:      135 ; Netheravon, UK
 DZ_Elev:      127 ; Siofok, HUN
 DZ_Elev:      156 ; Kapos, HUN
@@ -19,6 +22,7 @@ DZ_Elev:       61 ; Irish Parachute Club, IRL
 DZ_Elev:       91 ; Voss, NOR
 DZ_Elev:       12 ; Molinella, ITA
 DZ_Elev:       16 ; Fano, ITA
+DZ_Elev:      102 ; Skydive Thiene, ITA
 DZ_Elev:       45 ; Skydive Spain, ESP
 DZ_Elev:        2 ; Empuriabrava, ESP
 DZ_Elev:      127 ; Borki, RUS
@@ -33,15 +37,13 @@ DZ_Elev:        8 ; Oceanside, USA
 DZ_Elev:     1317 ; Utah, USA
 DZ_Elev:       83 ; Kapowsin, USA
 DZ_Elev:      382 ; Elsinore, USA
+DZ_Elev:      416 ; Skydive Fyrosity, Overton, Las Vegas, USA
 DZ_Elev:        6 ; Vancouver, CAN
 DZ_Elev:     1250 ; Pretoria, SA
 DZ_Elev:      160 ; SD Desert, AE
-DZ_Elev:      416 ; Skydive Fyrosity, Overton, Las Vegas, USA
-DZ_Elev:      157 ; Stadtlohn, GER
-DZ_Elev:      214 , Prostejov, CZE
-DZ_Elev:      470 ; Spa, BEL
 
-DZ_Elev:        ; Arezzo, ITA
+; MISSING
 DZ_Elev:        ; Schaffen, BEL
 DZ_Elev:        ; Klatovy, CZE
 DZ_Elev:        ; Ravenna, ITA
+DZ_Elev:        ; Arezzo, ITA
