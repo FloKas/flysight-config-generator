@@ -47,3 +47,9 @@ DZ_Elev:        ; Schaffen, BEL
 DZ_Elev:        ; Klatovy, CZE
 DZ_Elev:        ; Ravenna, ITA
 DZ_Elev:        ; Arezzo, ITA
+DZ_Elev:        ; SD Palm, AE
+DZ_Elev:        ; Sebastian, USA
+DZ_Elev:        ; Skydive Binz, GER
+DZ_Elev:        ; Muenster, GER
+DZ_Elev:        ; Schlierstadt, GER
+DZ_Elev:        ; 
