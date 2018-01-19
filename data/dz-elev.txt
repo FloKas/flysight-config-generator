@@ -9,6 +9,7 @@ DZ_Elev:      739 ; Altenstadt, GER
 DZ_Elev:      512 ; Illertissen, GER
 DZ_Elev:       32 ; Skydive MV, Neustadt-Glewe, GER
 DZ_Elev:      157 ; Stadtlohn, GER
+DZ_Elev:    578 ; Skydive Binz, GER
 
 DZ_Elev:        1 ; Texel, NL
 DZ_Elev:        5 ; Teuge, NL
@@ -43,13 +44,12 @@ DZ_Elev:     1250 ; Pretoria, SA
 DZ_Elev:      160 ; SD Desert, AE
 
 ; MISSING
-DZ_Elev:        ; Schaffen, BEL
-DZ_Elev:        ; Klatovy, CZE
-DZ_Elev:        ; Ravenna, ITA
-DZ_Elev:        ; Arezzo, ITA
-DZ_Elev:        ; SD Palm, AE
-DZ_Elev:        ; Sebastian, USA
-DZ_Elev:        ; Skydive Binz, GER
-DZ_Elev:        ; Muenster, GER
-DZ_Elev:        ; Schlierstadt, GER
-DZ_Elev:        ; 
+; DZ_Elev:        ; Schaffen, BEL
+; DZ_Elev:        ; Klatovy, CZE
+; DZ_Elev:        ; Ravenna, ITA
+; DZ_Elev:        ; Arezzo, ITA
+; DZ_Elev:        ; SD Palm, AE
+; DZ_Elev:        ; Sebastian, USA
+; DZ_Elev:        ; Muenster, GER
+; DZ_Elev:        ; Schlierstadt, GER
+; DZ_Elev:        ; 
