@@ -21,7 +21,7 @@ DZ_Elev:      156 ; Kapos, HUN
 DZ_Elev:      105 ; Nyiregyhaza, HUN
 DZ_Elev:       61 ; Irish Parachute Club, IRL
 DZ_Elev:       91 ; Voss, NOR
-DZ_Elev:       12 ; Molinella, ITA
+DZ_Elev:       12 ; Molinella, Moli D-Zone, ITA
 DZ_Elev:       16 ; Fano, ITA
 DZ_Elev:      102 ; Skydive Thiene, ITA
 DZ_Elev:       45 ; Skydive Spain, ESP
