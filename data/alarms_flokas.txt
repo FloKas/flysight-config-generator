@@ -43,7 +43,7 @@ Alarm_File:    1 ; File to be played
 
 
 Alarm_Elev: 3050 ; Alarm elevation (m above ground level)
-Alarm_Type:    12; Alarm type
+Alarm_Type:    1; Alarm type
 Alarm_File:    0 ; File to be played
 
 
