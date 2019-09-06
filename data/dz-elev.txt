@@ -2,14 +2,15 @@
 
 DZ_Elev:        0 ; Ground elevation (m above sea level)
 
-DZ_Elev:       73 ; Marl, GER
-DZ_Elev:      212 ; Eschbach, GER
+DZ_Elev:       73 ; Marl, GER (VfFM)
+DZ_Elev:      212 ; Eschbach, GER (Sky High)
 DZ_Elev:      120 ; Soest, GER
 DZ_Elev:      739 ; Altenstadt, GER
 DZ_Elev:      512 ; Illertissen, GER
 DZ_Elev:       32 ; Neustadt-Glewe, GER
 DZ_Elev:      157 ; Stadtlohn, GER
-DZ_Elev:      578 ; Binz, GER
+DZ_Elev:      578 ; Binz, GER (Sky-Fun)
+DZ_Elev:      559 ; Breitscheid, GER (Skydive Westerwald)
 
 DZ_Elev:        1 ; Texel, NL
 DZ_Elev:        5 ; Teuge, NL
@@ -23,15 +24,18 @@ DZ_Elev:       61 ; Irish Parachute Club, IRL
 DZ_Elev:       91 ; Voss, NOR
 DZ_Elev:       12 ; Molinella, Moli D-Zone, ITA
 DZ_Elev:       16 ; Fano, ITA
+DZ_Elev:        0 ; Ravenna, ITA
 DZ_Elev:      102 ; Skydive Thiene, ITA
 DZ_Elev:       45 ; Skydive Spain, ESP
 DZ_Elev:        2 ; Empuriabrava, ESP
 DZ_Elev:      127 ; Borki, RUS
 DZ_Elev:      230 ; Puschino, RUS
+
 DZ_Elev:        6 ; Vancouver, CAN
 DZ_Elev:     1250 ; Pretoria, SA
 DZ_Elev:      160 ; SD Desert, AE
 DZ_Elev:        2 ; SD Palm, AE
+
 DZ_Elev:       27 ; Z-Hills, USA
 DZ_Elev:      238 ; Chicago, USA
 DZ_Elev:       18 ; Lodi, USA
@@ -44,10 +48,10 @@ DZ_Elev:       83 ; Kapowsin, USA
 DZ_Elev:      382 ; Elsinore, USA
 DZ_Elev:      416 ; Fyrosity, Overton, Las Vegas, USA
 
-; MISSING
+
+; still MISSING
 ; DZ_Elev:        ; Schaffen, BEL
 ; DZ_Elev:        ; Klatovy, CZE
-; DZ_Elev:        ; Ravenna, ITA
 ; DZ_Elev:        ; Arezzo, ITA
 ; DZ_Elev:        ; Sebastian, USA
 ; DZ_Elev:        ; Muenster, GER
